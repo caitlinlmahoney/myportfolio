@@ -1,7 +1,7 @@
 # Site settings
 title: Caitlin Mahoney
 email: caitlinlmahoney@gmail.com
-url: git@github.com:caitlinlmahoney/myportfolio.git
+baseurl: git@github.com:caitlinlmahoney/myportfolio.git
 description: "Welcome to the portfolio site of Caitlin Mahoney. Here you will find examples of my design work and access to my resume. I look forward to talking with you."
 keywords: "design, graphic designer, portfolio, groton, boston, greater boston, painting, resume, finance, work culture, collaborator, education"
 skills: "Graphic Designer"
