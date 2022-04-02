@@ -1,5 +1,6 @@
 #-------------------------------
 # General Site Settings
+baseurl: "/myportfolio/"
 url: "https://caitlinlmahoney.github.io/myportfolio/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
