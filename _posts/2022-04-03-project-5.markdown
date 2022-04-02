@@ -1,13 +1,11 @@
 ---
 layout: default
-modal-id: 4
-date: 2022-04-02
-img: game.png
+modal-id: 5
+date: 2022-04-06
+img: safe.png
 alt: image-alt
-project-date: May 2013
-client: Massachusetts Marketing Partnership
-category: Logo Design
+project-date: May 2021
+client: Commonwealth Financial Network
+category: Brochure Design
 description: Aliquid quasi so duis veritatis but ullamco. Quaerat et dolore. Irure. Rem. Ullamco eum doloremque. Labore eos autem, iure natus so aut nemo. Dolore eius, yet duis. Tempor corporis commodo and consequuntur but anim est. Eiusmod omnis but iste. Perspiciatis illum modi so quo nostrum. Lorem eos, cupidatat suscipit so exercitation. Consectetur culpa fugiat, id. Aliquam. Occaecat. Magni nequeporro anim sed quisquam. Irure velit. Eius beatae quae. Totam lorem but sint laboriosam, so adipisicing illo. Corporis esse. Sequi exercitationem ipsa sequi adipisicing. Perspiciatis architecto. Laudantium aliqua yet ipsum but minima. Amet sequi but ut for ut enim, nor velitesse for ipsa. Magna esse laborum. Nisi sunt iste so proident cupidatat and illo.
-
-Rem voluptas and error, nor nequeporro. Eum excepteur. Vel aliqua esse for quasi adipisci and nostrud inventore. Dolores. Aliquam dolores doloremque but consequuntur. Laudantium beatae ad dolores, eaque. Ex velitesse yet veritatis, or minima id. Excepteur. Non ipsam yet veritatis for laborum, or qui. Rem. Commodo. Ut elit omnis or incidunt nor consequat ipsam and quis. Eos labore or qui ratione aliquip velitesse. Eu. Ut unde vel. Exercitation. Illo non inventore architecto eu. Id ab and quis.
 ---

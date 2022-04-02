@@ -3,7 +3,7 @@ title: Caitlin Mahoney
 email: caitlinlmahoney@gmail.com
 url: https://caitlinlmahoney.github.io/myportfolio/
 description: "Welcome to the Portfolio of Caitlin Mahoney."
-keywords: "design, graphic designer, painting, artist"
+keywords: "design, graphic designer, painting, artist, web designer, branding, brochure, logo, print"
 skills: "Graphic Designer"
 meta_author: LastName FirstName
 
@@ -40,15 +40,15 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://caitlinlmahoney.github.io/myportfolio/
   - title: facebook
-    url:
+    url: https://caitlinlmahoney.github.io/myportfolio/
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://caitlinlmahoney.github.io/myportfolio/
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://caitlinlmahoney.github.io/myportfolio/
   - title: github
-    url: http://github.com/jekyll
+    url: https://caitlinlmahoney.github.io/myportfolio/
 
 # Postal address (add as many lines as necessary)
 address:
@@ -56,7 +56,7 @@ address:
   - line: Groton, MA 01450
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer Bootstrap theme for Jekyll'
 
 # Build settings
 markdown: kramdown
