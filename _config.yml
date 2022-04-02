@@ -1,71 +1,56 @@
-# Site settings
-title: Caitlin Mahoney
-email: caitlinlmahoney@gmail.com
-url: https://caitlinlmahoney.github.io/myportfolio/
-description: "Welcome to the Portfolio of Caitlin Mahoney."
-keywords: "design, graphic designer, painting, artist, web designer, branding, brochure, logo, print"
-skills: "Graphic Designer"
-meta_author: LastName FirstName
+#-------------------------------
+# General Site Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Google webmaster tools
-google_verify:
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-contact: static
-
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
-
-# Footer settings
-footer:
-  copyright: Caitlin Mahoney
-  location: Groton, MA
-  social: Around the Web
-  credits: Credits
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://caitlinlmahoney.github.io/myportfolio/
-  - title: facebook
-    url: https://caitlinlmahoney.github.io/myportfolio/
-  - title: stack-overflow
-    url: https://caitlinlmahoney.github.io/myportfolio/
-  - title: bitbucket
-    url: https://caitlinlmahoney.github.io/myportfolio/
-  - title: github
-    url: https://caitlinlmahoney.github.io/myportfolio/
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 74 Meadowview Road
-  - line: Groton, MA 01450
-
-# Credits content
-credits: 'Freelancer Bootstrap theme for Jekyll'
-
-# Build settings
+#-------------------------------
+# Build Settings
 markdown: kramdown
-permalink: pretty
+permalink: /:title
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 
-#for posts
+paginate: 6
+paginate_path: "/blog/page/:num"
+
+
+#-------------------------------
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /blog/:slug
+  projects:
+    output: true
+    permalink: /project/:slug
+
+# Pages Path
 defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
   - scope:
       path: ""
       type: "posts"
     values:
-      permalink: ""
+      layout: "post"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+sass:
+  sass_dir: _sass
+  style: compressed
