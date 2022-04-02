@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: 1
-date: 2022-04-02
-img: CSR_Report.pdf
+date: 2022-04-07
+img: cabin.png
 alt: image-alt
 project-date: December 2021
 client: Commonwealth Financial Network
