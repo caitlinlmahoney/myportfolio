@@ -1,7 +1,7 @@
 ---
-title: Ride My Bike
+title: MCAT Prep to Go
 date: 2022-01-05 08:01:35 +0300
-subtitle: Procreate
+subtitle: App Icon Design
 image: '/images/project-6.jpg'
 ---
 
@@ -25,6 +25,8 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
   </div>
 </div>
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse worldwide methodologies.
+The Ask: The Princeton Review is an educational services company that sells test preparation courses and materials. In a new initiative, The Princeton Review created an application that could be used by clients to study for the MCAT test on their phones, tablet, and computer. A portion of the project included designing an app icon that could be carried across the app store, smartphone, and desktop icons, along with splash screens. 
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer coordinate.
+The Process: MCAT Prep to Go was a new product offered to help those studying for the MCAT test. Before this, no app design existed for The Princeton Review, so the approach and design direction had to be decided on. Knowing that the company wanted to continue creating apps for other test types, I presented the idea to construct a design template to allow for consistent branding under The Princeton Review name. For this reason, the design incorporated the two core brand colors, and the visual hierarchy focused on the company name followed by the test type. With the approval of this approach, I was able to apply the MCAT icon and copy changes to the app icon and splash screens, in a clean design that was easily legible and reflective of the company’s visual branding. 
+
+The Solution: The icon app design was successfully applied and formatted for all platforms, using The Princeton Review’s two recognizable and core brand colors. The app icons were created in a way that they could be customized for other test types, allowing for greater brand consistency across numerous test types. 

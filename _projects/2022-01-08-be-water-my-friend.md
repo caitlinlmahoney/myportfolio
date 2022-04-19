@@ -1,7 +1,7 @@
 ---
-title: Be Water My Friend
+title: Vista Club Conference
 date: 2022-01-08 08:01:35 +0300
-subtitle: Quotes
+subtitle: Event Design
 image: '/images/project-3.jpg'
 ---
 
@@ -25,6 +25,8 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
   </div>
 </div>
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse worldwide methodologies.
+The Ask: In 2019, Commonwealth Financial Network held its annual educational Vista Club conference in Colorado Springs. Attendees included selected advisors and industry partners. The four-day event needed branding created that could be applied to digital and print event materials.
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer coordinate.
+The Process: For Commonwealth’s Vista Club conference I acted as the lead designer. I first sat down with several colleagues on the Conferences and Events team who were running the event to gather all pertinent information. During the meeting, I was able to better understand what was important to explore, highlight, and incorporate in the concept work and final design. From there I did further research on the area and designed three concepts for the client to choose from. Upon incorporating marketing and client feedback, the conference branding was applied to a wide range of marketing materials which included but were not limited to a website, mobile application, name badges, signage, presentations, apparel, and handouts. 
+
+The Solution: The final branding was successfully applied to all materials on time and within budget. The design was unique to the conference while being representative of the area and architecture. It allowed for a clean, distinctive, and professional appearance that made the four-day event feel customized to the attendees, enhancing the overall experience.   
