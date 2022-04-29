@@ -20,9 +20,9 @@ menu__settings:
       submenu:
       - url: '/myportfolio/about/'
         title: 'About'
-      - url: '/contact/'
+      - url: '/myportfolio/contact/'
         title: 'Contact'
-      - url: '/elements/'
+      - url: '/myportfolio/elements/'
         title: 'Elements'
 
 
