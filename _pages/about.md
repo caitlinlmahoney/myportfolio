@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/01-2.jpg'
+image: '/myportfolio/images/01-2.jpg'
 ---
 
 I’m a Massachusetts-based graphic designer with ten years of experience in marketing, print, branding, and digital design. I provide creative on-brand design solutions that are informed by data, the end-user, and overarching strategy. I believe that design is constantly evolving which is why it’s so important to stay current on trends and best practices when implementing design decisions for every project. When I’m not designing, you’ll find me working on my next art piece, searching for a new show to binge-watch, and above all else enjoying every minute I get to spend with my family. 
