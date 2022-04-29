@@ -5,15 +5,15 @@ permalink: /about/
 image: '/images/01-2.jpg'
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I’m a Massachusetts-based graphic designer with ten years of experience in marketing, print, branding, and digital design. I provide creative on-brand design solutions that are informed by data, the end-user, and overarching strategy. I believe that design is constantly evolving which is why it’s so important to stay current on trends and best practices when implementing design decisions for every project. When I’m not designing, you’ll find me working on my next art piece, searching for a new show to binge-watch, and above all else enjoying every minute I get to spend with my family. 
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+I’m always looking for new opportunities to work on creative projects. If you’re interested in collaborating, please reach out. 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/105.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
+    <img src="/myportfolio/images/100.jpg" loading="lazy">
+    <img src="/myportfolio/images/105.jpg" loading="lazy">
+    <img src="/myportfolio/images/103.jpg" loading="lazy">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
