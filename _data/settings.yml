@@ -13,16 +13,16 @@ menu__settings:
     - title: 'Home'
       url: '/'
     - title: 'Projects'
-      url: 'myportfolio/projects/'
+      url: '/projects/'
     - title: 'Blog'
-      url: 'myportfolio/blog/'
+      url: '/blog/'
     - title: 'Pages'
       submenu:
-      - url: 'myportfolio/about/'
+      - url: '/about/'
         title: 'About'
-      - url: 'myportfolio/contact/'
+      - url: '/contact/'
         title: 'Contact'
-      - url: 'myportfolio/elements/'
+      - url: '/elements/'
         title: 'Elements'
 
 
