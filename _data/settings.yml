@@ -13,7 +13,7 @@ menu__settings:
     - title: 'Home'
       url: '/'
     - title: 'Projects'
-      url: '/projects/'
+      url: '/myportfolio/projects/'
     - title: 'Blog'
       url: '/blog/'
     - title: 'Pages'
