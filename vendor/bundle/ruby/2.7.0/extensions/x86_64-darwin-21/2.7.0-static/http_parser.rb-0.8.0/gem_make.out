@@ -1,0 +1,16 @@
+current directory: /Users/caitlinmahoney/Sites/dist/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/Users/caitlinmahoney/.rubies/ruby-2.7.5/bin/ruby -I /Users/caitlinmahoney/.rubies/ruby-2.7.5/lib/ruby/site_ruby/2.7.0 -r ./siteconf20220428-19106-196iyo0.rb extconf.rb
+creating Makefile
+
+current directory: /Users/caitlinmahoney/Sites/dist/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= clean
+
+current directory: /Users/caitlinmahoney/Sites/dist/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\=
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/caitlinmahoney/Sites/dist/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20220428-19106-173kgao
