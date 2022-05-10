@@ -13,10 +13,10 @@ menu__settings:
     - title: 'Home'
       url: '/'
     - title: 'Projects'
-      url: 'myportfolio/projects'
+      url: '/projects'
     - title: 'Pages'
       submenu:
-      - url: 'myportfolio/about'
+      - url: '/about'
         title: 'About'
 
 
@@ -25,7 +25,7 @@ menu__settings:
 author:
   author__name: Caitlin Mahoney
   author__bio: If you’re looking for custom designs that make a big impact, let’s talk in more detail.
-  author__avatar: 'myportfolio/images/Contact_illustration.svg'
+  author__avatar: '/images/Contact_illustration.svg'
 
 social:
 - {icon: "ion-logo-github", link: "https://github.com/caitlinlmahoney"}
@@ -40,7 +40,7 @@ social:
 hero:
   hero__title: I'm Caitlin. I provide creative solutions for your business.
   hero__description: If you’re looking for custom designs that make a big impact, let’s talk in more detail.
-  hero__image: 'myportfolio/images/desk_illustration.svg'
+  hero__image: '/images/desk_illustration.svg'
 
 
 #-------------------------------
