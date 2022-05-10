@@ -40,7 +40,7 @@ social:
 hero:
   hero__title: I'm Caitlin. I provide creative solutions for your business.
   hero__description: If you’re looking for custom designs that make a big impact, let’s talk in more detail.
-  hero__image: '/images/desk_illustration.svg'
+  hero__image: 'images/desk_illustration.svg'
 
 
 #-------------------------------
