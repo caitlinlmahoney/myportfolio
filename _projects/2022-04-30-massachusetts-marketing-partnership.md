@@ -2,12 +2,12 @@
 title: Massachusetts Marketing Partnership
 date: 2022-01-07 08:01:35 +0300
 subtitle: Logo Design
-image: 'myportfolio/images/MMP_Logo_Mockup_Website_1800x1200_P4_E1_new.jpg'
+image: 'images/MMP_Logo_Mockup_Website_1800x1200_P4_E1_new.jpg'
 ---
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="myportfolio/images/MMP_Identity-Mockup_Website_1800x1200_P1_E2.jpg" loading="lazy" alt="Project">
+    <img src="images/MMP_Identity-Mockup_Website_1800x1200_P1_E2.jpg" loading="lazy" alt="Project">
   </div>
 </div>
 

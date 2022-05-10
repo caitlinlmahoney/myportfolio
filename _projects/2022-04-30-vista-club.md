@@ -2,14 +2,14 @@
 title: Vista Club
 date: 2022-01-08 08:01:35 +0300
 subtitle: Conference and Event Design
-image: 'myportfolio/images/Vista-Club_VC-Website_Mockup_1800x1200_P3_E1.jpg'
+image: 'images/Vista-Club_VC-Website_Mockup_1800x1200_P3_E1.jpg'
 ---
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="myportfolio/images/Vista-Club_Shirt_Mockup_680x680_P3_E2.jpg" loading="lazy" alt="Project">
-    <img src="myportfolio/images/Vista-Club_Mobile_Website_680x680_P3_E3.png" loading="lazy" alt="Project">
-    <img src="myportfolio/images/Vista_Agenda_Website_Mockup_680x680_P3_E4.jpg" loading="lazy" alt="Project">
+    <img src="images/Vista-Club_Shirt_Mockup_680x680_P3_E2.jpg" loading="lazy" alt="Project">
+    <img src="images/Vista-Club_Mobile_Website_680x680_P3_E3.png" loading="lazy" alt="Project">
+    <img src="images/Vista_Agenda_Website_Mockup_680x680_P3_E4.jpg" loading="lazy" alt="Project">
   </div>
 </div>
 
