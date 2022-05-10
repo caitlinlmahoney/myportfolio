@@ -13,10 +13,10 @@ menu__settings:
     - title: 'Home'
       url: '/'
     - title: 'Projects'
-      url: '/myportfolio/projects'
+      url: '/projects'
     - title: 'Pages'
       submenu:
-      - url: '/myportfolio/about'
+      - url: '/about'
         title: 'About'
 
 
