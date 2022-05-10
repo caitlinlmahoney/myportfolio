@@ -2,14 +2,14 @@
 title: MCAT Prep to Go
 date: 2022-01-05 08:01:35 +0300
 subtitle: App Icon Design
-image: '/images/MCAT_App_Website_1800x1200_P6_E1.jpg'
+image: 'myportfolio/images/MCAT_App_Website_1800x1200_P6_E1.jpg'
 ---
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/MCAT_App_Icon_Website_680x680_P6_E2.jpg" loading="lazy" alt="Project">
-    <img src="/images/MCAT_App_Homescreen_Website_680x680_P6_E3.jpg" loading="lazy" alt="Project">
-    <img src="/images/MCAT_IPhone-Mockup_Website_680x680_P6_E4.jpg" loading="lazy" alt="Project">
+    <img src="myportfolio/images/MCAT_App_Icon_Website_680x680_P6_E2.jpg" loading="lazy" alt="Project">
+    <img src="myportfolio/images/MCAT_App_Homescreen_Website_680x680_P6_E3.jpg" loading="lazy" alt="Project">
+    <img src="myportfolio/images/MCAT_IPhone-Mockup_Website_680x680_P6_E4.jpg" loading="lazy" alt="Project">
   </div>
 </div>
 

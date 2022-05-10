@@ -2,26 +2,26 @@
 title: Glidepath Brochure
 date: 2022-01-06 08:01:35 +0300
 subtitle: Brochure Design
-image: '/images/Mockup_Brochure_Cover_1800x1200_P5_E1.jpg'
+image: 'myportfolio/images/Mockup_Brochure_Cover_1800x1200_P5_E1.jpg'
 ---
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/MockUp_Brochure_1_1060x800_P5_E2.jpg" loading="lazy" alt="Project">
-    <img src="/images/MockUp_Brochure_2_1060x800_P5_E3.jpg" loading="lazy" alt="Project">
+    <img src="myportfolio/images/MockUp_Brochure_1_1060x800_P5_E2.jpg" loading="lazy" alt="Project">
+    <img src="myportfolio/images/MockUp_Brochure_2_1060x800_P5_E3.jpg" loading="lazy" alt="Project">
   </div>
 </div>
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/MockUp_Brochure_3-4_1800x1200_P5_E4.jpg" loading="lazy" alt="Project">
+    <img src="myportfolio/images/MockUp_Brochure_3-4_1800x1200_P5_E4.jpg" loading="lazy" alt="Project">
   </div>
 </div>
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/MockUp_Brochure_5_1060x800_P5_E5.jpg" loading="lazy" alt="Project">
-    <img src="/images/Mockup_Brochure_Back-Cover_1060x800_P5_E6.jpg" loading="lazy" alt="Project">
+    <img src="myportfolio/images/MockUp_Brochure_5_1060x800_P5_E5.jpg" loading="lazy" alt="Project">
+    <img src="myportfolio/images/Mockup_Brochure_Back-Cover_1060x800_P5_E6.jpg" loading="lazy" alt="Project">
   </div>
 </div>
 
