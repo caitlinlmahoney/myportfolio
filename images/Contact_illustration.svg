@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{clip-path:url(#SVGID_00000011009415058268574090000017908326494779581353_);fill:#579789;}
+	.st2{fill:#FFFFFF;}
+	.st3{opacity:0.4;fill:#A79F9D;enable-background:new    ;}
+	.st4{fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st5{fill:url(#SVGID_00000052807797774314406390000008563558427459917980_);}
+	.st6{fill:url(#SVGID_00000011016768467111625110000017271633112655985825_);}
+	.st7{fill:#FFFFFF;stroke:#000000;stroke-width:1.8639;stroke-linecap:round;stroke-linejoin:round;}
+	.st8{fill:#FFFFFF;stroke:#000000;stroke-width:1.8291;stroke-linecap:round;stroke-linejoin:round;}
+	.st9{fill:#FFFFFF;stroke:#000000;stroke-width:2.0938;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<pattern  y="1200" width="12" height="12" patternUnits="userSpaceOnUse" id="New_Pattern" viewBox="2 -14 12 12" style="overflow:visible;">
+	<g>
+		<rect x="2" y="-14" class="st0" width="12" height="12"/>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="2" y="-14" width="12" height="12"/>
+			</defs>
+			<clipPath id="SVGID_00000108281328801584406230000006454396382628299650_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<circle style="clip-path:url(#SVGID_00000108281328801584406230000006454396382628299650_);fill:#579789;" cx="14" cy="-11" r="2"/>
+			
+				<circle style="clip-path:url(#SVGID_00000108281328801584406230000006454396382628299650_);fill:#579789;" cx="8" cy="-14" r="2"/>
+			
+				<circle style="clip-path:url(#SVGID_00000108281328801584406230000006454396382628299650_);fill:#579789;" cx="2" cy="-11" r="2"/>
+			
+				<circle style="clip-path:url(#SVGID_00000108281328801584406230000006454396382628299650_);fill:#579789;" cx="14" cy="-5" r="2"/>
+			
+				<circle style="clip-path:url(#SVGID_00000108281328801584406230000006454396382628299650_);fill:#579789;" cx="8" cy="-8" r="2"/>
+			
+				<circle style="clip-path:url(#SVGID_00000108281328801584406230000006454396382628299650_);fill:#579789;" cx="2" cy="-5" r="2"/>
+			
+				<circle style="clip-path:url(#SVGID_00000108281328801584406230000006454396382628299650_);fill:#579789;" cx="8" cy="-2" r="2"/>
+		</g>
+	</g>
+</pattern>
+<g id="a_00000053546314477126558280000017382998027420560540_">
+	<rect x="-37.2" y="-32.7" class="st2" width="1279.4" height="1270.4"/>
+</g>
+<g>
+	<g id="vector_00000012468343156731765430000001008382256017571490_">
+		<path class="st3" d="M863.1,355.3c-20.1-20.4-42.8-37.9-67.7-52.1v424.3c56.7-60.7,121.4-102.1,140.6-160.9
+			C957.1,501.9,923.1,416.2,863.1,355.3z"/>
+		<path class="st3" d="M419.4,877.5v-489c-70.4,60.6-141.3,130-153.2,211.1c-11.9,81.9,36.2,175.6,107.1,246.9
+			c14.8,15,30.7,28.9,47.5,41.7C419.9,884.7,419.4,881.1,419.4,877.5z"/>
+		<path class="st3" d="M469.5,919.9c47.9,25.9,96.8,36.8,137.1,22.1c13.2-4.8,25.6-12.5,37.2-22.1H469.5z"/>
+		<path class="st4" d="M462.7,253.9h291.1c23.4,0,42.5,19,42.5,42.4v581.1c0,23.4-19,42.5-42.5,42.5H462.7
+			c-23.4,0-42.5-19-42.5-42.5V296.4C420.3,272.9,439.3,253.9,462.7,253.9z"/>
+		
+			<pattern  id="SVGID_00000151535885744931954560000004673840768608839605_" xlink:href="#New_Pattern" patternTransform="matrix(-1 0 0 1 -15158.8945 -27.9999)">
+		</pattern>
+		<path style="fill:url(#SVGID_00000151535885744931954560000004673840768608839605_);" d="M675.7,253.7c0.1,0.6,0.1,1.1,0.1,1.7v10
+			c0,9.1-7.4,16.5-16.5,16.5c0,0,0,0,0,0h-102c-9.1,0-16.5-7.4-16.5-16.5v-10c0-0.5,0-1,0.1-1.5"/>
+		
+			<pattern  id="SVGID_00000178924595315035673430000002343539206269210255_" xlink:href="#New_Pattern" patternTransform="matrix(1 0 0 1 -24.8477 -32.0582)">
+		</pattern>
+		<circle style="fill:url(#SVGID_00000178924595315035673430000002343539206269210255_);" cx="608.3" cy="876" r="21.7"/>
+	</g>
+	<g>
+		<polygon class="st7" points="705.2,396.5 301.1,396.5 301.1,581.2 578.9,581.2 606.7,648.5 634.5,581.2 705.2,581.2 		"/>
+		<line class="st8" x1="358.5" y1="443.5" x2="642" y2="443.5"/>
+		<line class="st8" x1="358.5" y1="488.9" x2="642" y2="488.9"/>
+		<line class="st8" x1="358.5" y1="534.2" x2="642" y2="534.2"/>
+	</g>
+	<line class="st9" x1="425" y1="829.5" x2="796.5" y2="829.5"/>
+</g>
+</svg>
