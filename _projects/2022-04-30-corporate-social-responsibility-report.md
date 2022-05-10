@@ -2,7 +2,7 @@
 title: Corporate Social Responsibility Report
 date: 2022-01-10 08:01:35 +0300
 subtitle: Report Design
-image: 'images/CSR_Report_Website_1800x1200_P1_E1.png'
+image: 'myportfolio/images/CSR_Report_Website_1800x1200_P1_E1.png'
 ---
 
 <div class="gallery-box">
