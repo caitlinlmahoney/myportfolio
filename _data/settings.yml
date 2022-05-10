@@ -25,7 +25,7 @@ menu__settings:
 author:
   author__name: Caitlin Mahoney
   author__bio: If you’re looking for custom designs that make a big impact, let’s talk in more detail.
-  author__avatar: '/images/Contact_illustration.svg'
+  author__avatar: 'images/Contact_illustration.svg'
 
 social:
 - {icon: "ion-logo-github", link: "https://github.com/caitlinlmahoney"}
