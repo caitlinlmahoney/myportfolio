@@ -7,7 +7,7 @@ image: 'images/PM_Image-1_1800x1200_P2_E1.jpg'
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="images/PM_Image-2_1800x1200_P2_E2.jpg" loading="lazy" alt="Project">
+    <img src="/myportfolio/images/PM_Image-2_1800x1200_P2_E2.jpg" loading="lazy" alt="Project">
   </div>
 </div>
 

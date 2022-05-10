@@ -7,8 +7,8 @@ image: 'images/CSR_Report_Website_1800x1200_P1_E1.png'
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="images/CSR_Website_Mockup_1060x800_P1_E2.png" loading="lazy" alt="Project">
-    <img src="images/CSR_Social_Mockup_Website_1060x800_P1_E3.png" loading="lazy" alt="Project">
+    <img src="/myportfolio/images/CSR_Website_Mockup_1060x800_P1_E2.png" loading="lazy" alt="Project">
+    <img src="/myportfolio/images/CSR_Social_Mockup_Website_1060x800_P1_E3.png" loading="lazy" alt="Project">
   </div>
 </div>
 
