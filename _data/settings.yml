@@ -16,7 +16,7 @@ menu__settings:
       url: 'myportfolio/projects'
     - title: 'Pages'
       submenu:
-      - url: 'about/'
+      - url: 'myportfolio/about'
         title: 'About'
 
 
