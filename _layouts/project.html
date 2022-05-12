@@ -27,7 +27,7 @@ layout: default
 
   {% if page.previous.url %}
   <div class="project__nav animate">
-    <a class="project__prev" href="{{page.previous.url}}">
+    <a class="project__prev" href="{{ page.previous.url | relative_url }}">
       <div class="project__box">
         <span class="project__nav-info">Next Project <i class="ion ion-md-arrow-round-forward arrow-right"></i></span>
         <h2 class="project__nav-title">{{page.previous.title}}</h2>
