@@ -15,7 +15,7 @@ layout: default
   <div class="row">
     <div class="col col-12">
       <div class="page-image animate">
-        <img class="lazy" data-src="{{site.baseurl}}/{{page.image}}" alt="{{page.title}}">
+        <img class="lazy" data-src="{{ page.image | relative_url }}" alt="{{page.title}}">
       </div>
     </div>
   </div>
@@ -34,7 +34,7 @@ layout: default
       </div>
     </a>
     <a class="project__nav-image" href="{{ page.previous.url | relative_url }}">
-      <img class="lazy" data-src="{{page.previous.image}}" alt="{{page.previous.title}}">
+      <img class="lazy" data-src="{{ page.previous.image | relative_url }}" alt="{{page.previous.title}}">
     </a>
   </div>
   {% endif %}
