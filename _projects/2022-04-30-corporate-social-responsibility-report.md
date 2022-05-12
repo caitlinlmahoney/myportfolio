@@ -12,7 +12,7 @@ image: 'images/CSR_Report_Website_1800x1200_P1_E1.png'
   </div>
 </div>
 
-To view the full report please click <a href="/myportfolio/images/CSR_Report.pdf">here</a>. 
+To view the full report please click <a target="_blank" href="/myportfolio/images/CSR_Report.pdf">here</a>. 
 
 <b>The Ask:</b> Corporate Social Responsibility is a large part of Commonwealth Financial Network’s identity. The leadership team wanted to communicate that more formally via its first annual CSR Report. 
 
