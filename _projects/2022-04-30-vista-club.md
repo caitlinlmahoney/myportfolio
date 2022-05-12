@@ -2,7 +2,7 @@
 title: Vista Club
 date: 2022-01-08 08:01:35 +0300
 subtitle: Conference and Event Design
-image: '/myportfolio/images/Vista-Club_VC-Website_Mockup_1800x1200_P3_E1.jpg'
+image: 'images/Vista-Club_VC-Website_Mockup_1800x1200_P3_E1.jpg'
 ---
 
 <div class="gallery-box">
